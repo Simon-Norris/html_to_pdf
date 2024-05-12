@@ -1,4 +1,4 @@
-# Project Name
+# HTML to PDF Converter
 
 HTML to PDF to convert your html code to pdf file.
 
