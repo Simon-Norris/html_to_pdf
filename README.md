@@ -7,9 +7,6 @@ HTML to PDF to convert your html code to pdf file.
 Before you begin, ensure you have met the following requirements:
 
 - Node.js installed (version 18 or higher)
-- NPM (Node Package Manager) installed (usually comes with Node.js installation)
-- Express.js installed (run `npm install express`)
-- Puppeteer installed (run `npm install puppeteer`)
 
 ## Installation
 
